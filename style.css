@@ -1,0 +1,11 @@
+.slide-area{
+    background-color: #FBE9E7;
+}
+.slide-btn{
+    background: linear-gradient(#FE5196,#FE1E76);
+}
+.slide-price{
+    color:#FE1E76;
+}
+
+@media ()
